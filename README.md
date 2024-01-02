@@ -14,14 +14,7 @@
 </div>
 <hr>
 <div id="badges2" align="center">
-  <p>Инструменты</p>
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0059bf?logo=mysql&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0070f0?logo=sqlite&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-009e4a?logo=mongodb&logoColor=white">
-  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-7f3500?logo=mariadb&logoColor=white">
-
-  <br>
+  <p>Языки программирования</p>
   <br>
   <img alt="Python" src="https://img.shields.io/badge/Python-%230048ba?logo=python&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-%23006dba?logo=flask&logoColor=white">
@@ -44,7 +37,22 @@
   <br>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-8669fa?logo=php&logoColor=white">
   <img alt="LUA" src="https://img.shields.io/badge/Lua-0036bf?logo=lua&logoColor=white">
-
+  <br>
+  <br>
+  <p>Базы данных</p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0059bf?logo=mysql&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0070f0?logo=sqlite&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-009e4a?logo=mongodb&logoColor=white">
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-7f3500?logo=mariadb&logoColor=white">
+  <br>
+  <br>
+  <p>Инструменты</p>
+  <br>
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white">
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020?logo=cloudflare&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JSON-%23000000?logo=json&logoColor=white">
+  
+  
 </div>
 <hr>
 <div id="badges2" align="center">
