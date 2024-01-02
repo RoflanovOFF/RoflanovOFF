@@ -15,6 +15,6 @@
 <hr>
 <div id="badges2" align="center">
   <p>Инструменты</p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-%230048ba?logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%004ababa?logo=python&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Flask-%230060ba?logo=flask&logoColor=white">
 </div>
