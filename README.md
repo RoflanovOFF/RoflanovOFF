@@ -40,6 +40,7 @@
   <br>
   <br>
   <p>Базы данных</p>
+  <br>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0059bf?logo=mysql&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0070f0?logo=sqlite&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-009e4a?logo=mongodb&logoColor=white">
@@ -48,9 +49,11 @@
   <br>
   <p>Инструменты</p>
   <br>
+  <img alt="Visul Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91?logo=visualstudio&logoColor=white">
+  <img alt="Visul Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white">
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white">
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020?logo=cloudflare&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JSON-%23000000?logo=json&logoColor=white">
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000?logo=json&logoColor=white">
   
   
 </div>
