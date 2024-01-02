@@ -56,6 +56,8 @@
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white">
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020?logo=cloudflare&logoColor=white">
   <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/phpMyAdmin-%236C78AF?logo=phpMyAdmin&logoColor=white">
+  <br>
   <img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000?logo=json&logoColor=white">
   
   
