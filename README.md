@@ -12,7 +12,7 @@
   <a href=""><img alt="Дисуорд Аккаунт" src="https://img.shields.io/badge/%D0%94%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B4-%237289da?logo=discord&logoColor=white&label=%D0%90%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82&color=%237289da"></a>
   <a href=""><img alt="Дискорд Сервер" src="https://img.shields.io/badge/%D0%94%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B4-%237289da?logo=discord&logoColor=white&label=%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80&color=%237289da"></a>
 </div>
-<hr>
+
 <div id="badges2" align="center">
   <p>Языки программирования</p>
   <img alt="Python" src="https://img.shields.io/badge/Python-%230048ba?logo=python&logoColor=white">
