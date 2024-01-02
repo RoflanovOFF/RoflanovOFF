@@ -60,17 +60,15 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/phpMyAdmin-%236C78AF?logo=phpMyAdmin&logoColor=white">
   <br>
   <img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000?logo=json&logoColor=white">
-  
-  
-</div>
-<hr>
-<div id="badges2" align="center">
+  <br>
+  <br>
   <p>Операционные системы</p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white">
-  <img alt="Debian" src="https://img.shields.io/badge/Debian-red?logo=debian&logoColor=white">
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Mint-%2300d46d?logo=linuxmint&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Kali-%230007d4?logo=kalilinux&logoColor=white">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Windows-%23007bd4?logo=windows10&logoColor=white">
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-557C94?logo=debian&logoColor=white">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-557C94?logo=ubuntu&logoColor=white">
+  <img alt="Mint" src="https://img.shields.io/badge/Mint-557C94?logo=linuxmint&logoColor=white">
+  <img alt="Kali" src="https://img.shields.io/badge/Kali-557C94?logo=kalilinux&logoColor=white">
+  <br>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-%23007bd4?logo=windows10&logoColor=white">
 </div>
