@@ -15,7 +15,6 @@
 <hr>
 <div id="badges2" align="center">
   <p>Языки программирования</p>
-  <br>
   <img alt="Python" src="https://img.shields.io/badge/Python-%230048ba?logo=python&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-%23006dba?logo=flask&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23006dba?logo=fastapi&logoColor=white">
@@ -40,7 +39,6 @@
   <br>
   <br>
   <p>Базы данных</p>
-  <br>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0059bf?logo=mysql&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0070f0?logo=sqlite&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-009e4a?logo=mongodb&logoColor=white">
@@ -48,7 +46,6 @@
   <br>
   <br>
   <p>Инструменты</p>
-  <br>
   <img alt="Visul Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91?logo=visualstudio&logoColor=white">
   <img alt="Visul Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Sublime%20Text-%23FF9800?logo=sublimetext&logoColor=white">
