@@ -22,13 +22,13 @@
   <img alt="Aiogram" src="https://img.shields.io/badge/Aiogram-%23006dba?logo=telegram&logoColor=white">
   <br>
   <br>
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white">
-  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-0070bf?logo=typescript&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-00bf59?logo=node.js&logoColor=white">
-  <img alt="JQuerye" src="https://img.shields.io/badge/JQuery-00a9bf?logo=jquery&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3178C69?logo=node.js&logoColor=white">
+  <img alt="JQuery" src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white">
   <br>
-  <img alt="C Scharp" src="https://img.shields.io/badge/CS-9900bf?logo=C%23&logoColor=white">
-  <img alt="C Plus Plus" src="https://img.shields.io/badge/CPP-0036bf?logo=C%2B%2B&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/CS-9900bf?logo=C%23&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/CPP-0036bf?logo=C%2B%2B&logoColor=white">
   <img alt="Pawn" src="https://img.shields.io/badge/Pawn-fad169?logo=pawn&logoColor=white">
   <br>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white">
@@ -46,6 +46,10 @@
   <br>
   <br>
   <p>Инструменты</p>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white">
+  <img alt="Gitea" src="https://img.shields.io/badge/Gitea-%23609926?logo=Gitea&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white">
+  <br>
   <img alt="Visul Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91?logo=visualstudio&logoColor=white">
   <img alt="Visul Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Sublime%20Text-%23FF9800?logo=sublimetext&logoColor=white">
