@@ -48,12 +48,12 @@
   <img alt="Visul Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white">
   <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23FF9800?logo=sublimetext&logoColor=white">
   <br>
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%237C3AED?logo=obsidian&logoColor=white">
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-%230052CC?logo=trello&logoColor=white">
-  <br>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white">
   <img alt="Gitea" src="https://img.shields.io/badge/Gitea-%23609926?logo=Gitea&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white">
+  <br>
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%237C3AED?logo=obsidian&logoColor=white">
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-%230052CC?logo=trello&logoColor=white">
   <br>
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white">
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020?logo=cloudflare&logoColor=white">
