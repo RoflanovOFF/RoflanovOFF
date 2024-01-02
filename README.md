@@ -24,6 +24,9 @@
   <img alt="Aiohttp" src="https://img.shields.io/badge/Aiohttp-%23006dba?logo=aiohttp&logoColor=white">
   <img alt="Aiogram" src="https://img.shields.io/badge/Aiogram-%23006dba?logo=telegram&logoColor=white">
   <br>
+  <br>
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white">
+  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-0070bf?logo=typescript&logoColor=white">
 </div>
 <hr>
 <div id="badges2" align="center">
@@ -34,5 +37,5 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Mint-%2300d46d?logo=linuxmint&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Kali-%230007d4?logo=kalilinux&logoColor=white">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Windows-%23007bd4?logo=windows&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Windows-%23007bd4?logo=windows10&logoColor=white">
 </div>
