@@ -39,12 +39,11 @@
   <img alt="C Plus Plus" src="https://img.shields.io/badge/CPP-0036bf?logo=C%2B%2B&logoColor=white">
   <img alt="Pawn" src="https://img.shields.io/badge/Pawn-fad169?logo=pawn&logoColor=white">
   <br>
-  <img alt="LUA" src="https://img.shields.io/badge/Lua-0036bf?logo=lua&logoColor=white">
-  <br>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-006be5?logo=css3&logoColor=white">
   <br>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-8669fa?logo=php&logoColor=white">
+  <img alt="LUA" src="https://img.shields.io/badge/Lua-0036bf?logo=lua&logoColor=white">
 
 </div>
 <hr>
