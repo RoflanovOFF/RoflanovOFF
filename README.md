@@ -52,11 +52,11 @@
   <img alt="Gitea" src="https://img.shields.io/badge/Gitea-%23609926?logo=Gitea&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white">
   <br>
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%237C3AED?logo=obsidian&logoColor=white">
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-%230052CC?logo=trello&logoColor=white">
-  <br>
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white">
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020?logo=cloudflare&logoColor=white">
+  <br>
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%237C3AED?logo=obsidian&logoColor=white">
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-%230052CC?logo=trello&logoColor=white">
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/phpMyAdmin-%236C78AF?logo=phpMyAdmin&logoColor=white">
   <br>
