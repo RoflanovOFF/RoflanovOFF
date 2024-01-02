@@ -16,7 +16,7 @@
 <div id="badges2" align="center">
   <p>Языки программирования</p>
   <img alt="Python" src="https://img.shields.io/badge/Python-%230048ba?logo=python&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-050505?logo=flask&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
   <img alt="Aiohttp" src="https://img.shields.io/badge/Aiohttp-2C5BB4?logo=aiohttp&logoColor=white">
   <img alt="Aiogram" src="https://img.shields.io/badge/Aiogram-006dba?logo=telegram&logoColor=white">
