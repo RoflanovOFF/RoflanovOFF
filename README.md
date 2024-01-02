@@ -65,7 +65,7 @@
   <p>Операционные системы</p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white">
   <br>
-  <img alt="Debian" src="https://img.shields.io/badge/Debian-87CF3E?logo=debian&logoColor=white">
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
   <img alt="Mint" src="https://img.shields.io/badge/Mint-87CF3E?logo=linuxmint&logoColor=white">
   <img alt="Kali" src="https://img.shields.io/badge/Kali-3643bf?logo=kalilinux&logoColor=white">
