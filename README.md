@@ -15,6 +15,24 @@
 <hr>
 <div id="badges2" align="center">
   <p>Инструменты</p>
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white">
+  
+  <br>
   <img alt="Python" src="https://img.shields.io/badge/Python-%230048ba?logo=python&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-%23006dba?logo=flask&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23006dba?logo=fastapi&logoColor=white">
+  <img alt="Aiohttp" src="https://img.shields.io/badge/Aiohttp-%23006dba?logo=aiohttp&logoColor=white">
+  <img alt="Aiogram" src="https://img.shields.io/badge/Aiogram-%23006dba?logo=telegram&logoColor=white">
+  <br>
+</div>
+<hr>
+<div id="badges2" align="center">
+  <p>Операционные системы</p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white">
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-red?logo=debian&logoColor=white">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Mint-%2300d46d?logo=linuxmint&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kali-%230007d4?logo=kalilinux&logoColor=white">
+  <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Windows-%23007bd4?logo=windows&logoColor=white">
 </div>
