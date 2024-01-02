@@ -21,7 +21,6 @@
   <img alt="Aiohttp" src="https://img.shields.io/badge/Aiohttp-%23006dba?logo=aiohttp&logoColor=white">
   <img alt="Aiogram" src="https://img.shields.io/badge/Aiogram-%23006dba?logo=telegram&logoColor=white">
   <br>
-  <br>
   <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3178C69?logo=node.js&logoColor=white">
