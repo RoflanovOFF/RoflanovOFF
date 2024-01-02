@@ -16,7 +16,12 @@
 <div id="badges2" align="center">
   <p>Инструменты</p>
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white">
-  
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0059bf?logo=mysql&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0070f0?logo=sqlite&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-009e4a?logo=mongodb&logoColor=white">
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-7f3500?logo=mariadb&logoColor=white">
+
+  <br>
   <br>
   <img alt="Python" src="https://img.shields.io/badge/Python-%230048ba?logo=python&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-%23006dba?logo=flask&logoColor=white">
@@ -27,6 +32,20 @@
   <br>
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white">
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-0070bf?logo=typescript&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-00bf59?logo=node.js&logoColor=white">
+  <img alt="JQuerye" src="https://img.shields.io/badge/JQuery-00a9bf?logo=jquery&logoColor=white">
+  <br>
+  <img alt="C Scharp" src="https://img.shields.io/badge/CS-9900bf?logo=C%23&logoColor=white">
+  <br>
+  <img alt="C Plus Plus" src="https://img.shields.io/badge/CPP-0036bf?logo=C%2B%2B&logoColor=white">
+  <br>
+  <img alt="LUA" src="https://img.shields.io/badge/Lua-0036bf?logo=lua&logoColor=white">
+  <br>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white">
+  <br>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-006be5?logo=css3&logoColor=white">
+  
+
 </div>
 <hr>
 <div id="badges2" align="center">
