@@ -26,7 +26,7 @@
   <img alt="JQuery" src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white">
   <br>
   <img alt="C#" src="https://img.shields.io/badge/C%23-9900bf?logo=C%23&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-0036bf?logo=C%2B%2B&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-0036bf?logo=SQL&logoColor=white">
   <img alt="Pawn" src="https://img.shields.io/badge/Pawn-fad169?logo=pawn&logoColor=white">
   <br>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white">
