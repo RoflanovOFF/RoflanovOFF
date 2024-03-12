@@ -13,7 +13,7 @@
 </div>
 <br>
 <div id="badges2" align="center">
-  <p>Языки программирования</p>
+  <p>Языки, фреймворки</p>
   <img alt="Python" src="https://img.shields.io/badge/Python-%230048ba?logo=python&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-101010?logo=flask&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
@@ -58,7 +58,7 @@
   <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%237C3AED?logo=obsidian&logoColor=white">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%230052CC?logo=trello&logoColor=white">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/phpMyAdmin-%236C78AF?logo=phpMyAdmin&logoColor=white">
+  <img alt="phpmyadmin" src="https://img.shields.io/badge/phpMyAdmin-%236C78AF?logo=phpMyAdmin&logoColor=white">
   <br>
   <img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000?logo=json&logoColor=white">
   <br>
