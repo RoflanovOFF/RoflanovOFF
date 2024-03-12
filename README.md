@@ -60,8 +60,7 @@
   <br>
   <img alt="phpmyadmin" src="https://img.shields.io/badge/phpMyAdmin-%236C78AF?logo=phpMyAdmin&logoColor=white">
   <br>
-  <img alt="JSON" src="https://img.shields.io/badge/redis-%23DC382D?logo=redis&logoColor=white">
-  <br>
+  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DC382D?logo=redis&logoColor=white">
   <img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000?logo=json&logoColor=white">
   <br>
   <br>
